@@ -1,0 +1,25 @@
+_repo: The-Rival-PitchersA-Story-of-College-Baseball_39582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2012-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College sports -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Baseball stories'
+title: 'The Rival Pitchers: A Story of College Baseball'
+url: http://www.gutenberg.org/ebooks/39582
